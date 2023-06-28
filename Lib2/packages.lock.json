@@ -1,20 +1,20 @@
 {
-  "version": 1,
+  "version": 2,
   "dependencies": {
     "net6.0": {
       "MediatR": {
         "type": "Direct",
-        "requested": "(, )",
-        "resolved": "0.1.0",
-        "contentHash": "+dQJkXhd9NVnsalQzBgN7euJg/Q0GtRBQu9V8Lnz9Bfex9NpbUYsfrYqLn/SfcNOxa2pDPHPrCeQUSltzue7Cw==",
+        "requested": "[11.1.0, )",
+        "resolved": "11.1.0",
+        "contentHash": "YIbtrLOyeCuIv8vIuHL/mMdls5xmgS36pIOJDxKZuu55nxA2MI2Z+E/Uk0z+F/LE11AGmpjplOM0NZ91m5LQBA==",
         "dependencies": {
-          "Portable.CommonServiceLocator": "1.2.2"
+          "MediatR.Contracts": "1.0.1"
         }
       },
-      "Portable.CommonServiceLocator": {
+      "MediatR.Contracts": {
         "type": "Transitive",
-        "resolved": "1.2.2",
-        "contentHash": "nJ7hY+rJgpRIDJq1+fuJt0z8XfeGkkKOXO+iqyisDi7yBV4R/tb0seXCptkx1XLbPB+6c41hLtIZG+tCkVQukw=="
+        "resolved": "1.0.1",
+        "contentHash": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A=="
       }
     }
   }
