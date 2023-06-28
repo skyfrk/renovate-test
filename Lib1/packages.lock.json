@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net6.0": {
+      "MediatR": {
+        "type": "Direct",
+        "requested": "(, )",
+        "resolved": "0.1.0",
+        "contentHash": "+dQJkXhd9NVnsalQzBgN7euJg/Q0GtRBQu9V8Lnz9Bfex9NpbUYsfrYqLn/SfcNOxa2pDPHPrCeQUSltzue7Cw==",
+        "dependencies": {
+          "Portable.CommonServiceLocator": "1.2.2"
+        }
+      },
+      "Portable.CommonServiceLocator": {
+        "type": "Transitive",
+        "resolved": "1.2.2",
+        "contentHash": "nJ7hY+rJgpRIDJq1+fuJt0z8XfeGkkKOXO+iqyisDi7yBV4R/tb0seXCptkx1XLbPB+6c41hLtIZG+tCkVQukw=="
+      }
+    }
+  }
+}
